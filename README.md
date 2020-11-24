@@ -15,6 +15,7 @@ T31301 - Pzygotuj animację w canvas, uzywając sprite sheet z internetu
 
 T31302 - Przygotuj obsługę punktacji wraz z zapisem do localStorage lub Cookies. 
          Uwzględnij możliwość podania Imienia playera, oraz sortowanie wyników.
+         Wyswietlaj tylko 20 najlepszych wynikow
 
 ```
 ### --------Links
