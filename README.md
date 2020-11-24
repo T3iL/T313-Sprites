@@ -10,10 +10,11 @@
 ### --------ZAD
 ```
 T31301 - Pzygotuj animację w canvas, uzywając sprite sheet z internetu
-- sprawdź w edytorze grafiki wymiary pojedynczej klatki animacji
-- uwzględnij arkusze spritów 2D
+       - sprawdź w edytorze grafiki wymiary pojedynczej klatki animacji
+       - uwzględnij arkusze spritów 2D
 
-T31302 - Przygotuj obsługę punktacji wraz z zapisem do localStorage lub Cookies. Uwzględnij możliwość podania Imienia playera, oraz sortowanie wyników.
+T31302 - Przygotuj obsługę punktacji wraz z zapisem do localStorage lub Cookies. 
+         Uwzględnij możliwość podania Imienia playera, oraz sortowanie wyników.
 
 ```
 ### --------Links
